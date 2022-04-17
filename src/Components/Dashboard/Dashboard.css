@@ -1,0 +1,20 @@
+.main {
+    margin-top: 40px;
+  }
+
+  .dashboard {
+    margin-top: 30px;
+  }
+
+  .Search {
+    width: 50%;
+  }
+
+    
+.DisplaySpinner-Container {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
